@@ -181,6 +181,27 @@ true ,true ,false,true ,true
 true ,true ,true ,false ,true
 true ,true ,true ,true ,false
 
+EXP-2
+<img width="1581" height="886" alt="image" src="https://github.com/user-attachments/assets/af9d1046-4b20-4b62-9593-1ec09750dcbb" />
+Truth Table:-
+I1,I2,I3,I4,O1
+false,false,false,false,true
+false,false,false,true,true
+false,false,true,false,true
+false,false,true,true,false
+false,true,false,false,false
+false,true,false,true,false
+false,true,true,false,true
+false,true,true,true,true
+true,false,false,false,false
+true,false,false,true,true
+true,false,true,false,false
+true,false,true,true,false
+true,true,false,false,true
+true,true,false,true,true
+true,true,true,false,true
+true,true,true,true,true
+
 
 
 
